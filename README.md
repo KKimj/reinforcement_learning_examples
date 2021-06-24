@@ -9,6 +9,7 @@ $ pip3 install 'imageio==2.4.0'
 $ pip3 install matplotlib
 $ pip3 install pyvirtualdisplay
 $ pip3 install gym
+$ pip3 install stable-baselines3[extra]
 
 # PyTorch
 $ pip3 install torch
